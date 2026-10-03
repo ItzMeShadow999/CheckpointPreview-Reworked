@@ -36,7 +36,8 @@ You only need one of the two options below.
 Runs automatically every time Discord loads.
 1. Install a userscript manager: [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/) or [ScriptVault](https://chromewebstore.google.com/detail/scriptvault/jlhdbkeijcbgnonpfkfkkkhfmbeejkgh?hl=en)
 2. Open the raw file and confirm the install prompt:
-   `https://raw.githubusercontent.com/ItzMeShadow999/CheckpointPreview-Reworked/main/checkpoint-preview.user.js`
+
+   https://raw.githubusercontent.com/ItzMeShadow999/CheckpointPreview-Reworked/main/checkpoint-preview.user.js
 3. Open Discord (web, or any client that runs your userscripts) and reload
 
 The script loads the asset image through the userscript manager, so Discord's CSP does not get in the way.
