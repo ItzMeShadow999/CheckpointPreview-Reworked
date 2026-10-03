@@ -31,10 +31,9 @@ Build, preview and export Checkpoint avatars without leaving Discord.
 
 You only need one of the two options below.
 
-### ▪ Install as a userscript
+### ▪ Install as a userscript ![Recommended](https://img.shields.io/badge/Recommended-%E2%9C%94-brightgreen)
 
-Runs automatically every time Discord loads. Recommended.
-
+Runs automatically every time Discord loads.
 1. Install a userscript manager: [Tampermonkey](https://www.tampermonkey.net/), [Violentmonkey](https://violentmonkey.github.io/) or [ScriptVault](https://chromewebstore.google.com/detail/scriptvault/jlhdbkeijcbgnonpfkfkkkhfmbeejkgh?hl=en)
 2. Open the raw file and confirm the install prompt:
    `https://raw.githubusercontent.com/ItzMeShadow999/CheckpointPreview-Reworked/main/checkpoint-preview.user.js`
